@@ -1,0 +1,13 @@
+﻿Build started 11/11/2017 5:26:19 PM.
+     1>Project "C:\Users\K Zeus\documents\visual studio 2015\Projects\Keylogger\Keylogger\Keylogger.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Keylogger.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Keylogger.cpp
+         Keylogger.cpp
+     1>c:\users\k zeus\documents\visual studio 2015\projects\keylogger\keylogger\keylogger.cpp(127): error C2601: 'main': local function definitions are illegal
+         c:\users\k zeus\documents\visual studio 2015\projects\keylogger\keylogger\keylogger.cpp(104): note: this line contains a '{' which has not yet been matched
+     1>c:\users\k zeus\documents\visual studio 2015\projects\keylogger\keylogger\keylogger.cpp(104): fatal error C1075: the left brace '{' was unmatched at the end of the file
+     1>Done Building Project "C:\Users\K Zeus\documents\visual studio 2015\Projects\Keylogger\Keylogger\Keylogger.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.37
